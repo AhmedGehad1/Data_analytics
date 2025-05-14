@@ -1,0 +1,4 @@
+Synchronized from 2023-11-04 19:12:20 to 2023-11-04 22:05:35, with 967 exact-matching timestamps.
+MAE:  8.71 bpm
+RMSE: 10.84 bpm
+MAPE: 11.50%
